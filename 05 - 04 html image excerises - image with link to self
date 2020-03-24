@@ -1,0 +1,17 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 04 html image excerises - image with link to self.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Images Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <a href="https://media1.s-nbcnews.com/j/newscms/2019_43/3065086/191023-increase-self-awareness-main-kh_ba69599f57c4f42a8436eaa485c74ef8.fit-2000w.jpg" target="_blank">
+    <img src="https://media1.s-nbcnews.com/j/newscms/2019_43/3065086/191023-increase-self-awareness-main-kh_ba69599f57c4f42a8436eaa485c74ef8.fit-2000w.jpg" style="width:600px;height:400px;" alt="A man looking into a mirror with a copy of himself coming out of the mirror."> 
+    </a>
+  </body>
+</html>
