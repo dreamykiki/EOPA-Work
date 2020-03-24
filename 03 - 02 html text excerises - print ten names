@@ -1,0 +1,36 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 02 html text excerises - print ten names.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Unalphabetized</h1>
+    Caolan<sub>1</sub><br>
+    Ellie-May<sub>2</sub><br>
+    Denzel<sub>3</sub><br>
+    Finnian<sub>4</sub><br>
+    Vera<sub>5</sub><br>
+    Ayra<sub>6</sub><br>
+    Jorja<sub>7</sub><br>
+    Nadir<sub>8</sub><br>
+    Bethaney<sub>9</sub><br>
+    Gwen<sub>10</sub><br>
+    <h1>Alphabetized</h1>
+    Ayra<sub>1</sub><br>
+    Bethaney<sub>2</sub><br>
+    Caolan<sub>3</sub><br>
+    Denzel<sub>4</sub><br>
+    Ellie-May<sub>5</sub><br>
+    Finnian<sub>6</sub><br>
+    Gwen<sub>7</sub><br>
+    Jorja<sub>8</sub><br>
+    Nadir<sub>9</sub><br>
+    Vera<sub>10</sub><br>
+  </body>
+</html>
