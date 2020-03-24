@@ -1,0 +1,15 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 08 html text excerises - del and ins.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p>My favorite podcast is <del>The Journal</del> <ins>Adventure Zone</ins>!</p> 
+  </body>
+</html>
