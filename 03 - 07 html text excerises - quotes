@@ -1,0 +1,25 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 07 html text excerises - quotes.html -->
+<!DOCTYPE html>
+<html>
+  <style>
+.indented {
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+</style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <q><i>Being alone and being lonely are two different things.</i></q>
+    <p class="indented">- Ai Yazawa</p>
+    <hr>
+    <blockquote><i>My point is, it takes just as much training to get along with people. Only, training by yourself in the mountains won't do you any good. You need to surround yourself with others. As you get to know them, of course you take the chance that you'll end up hurting them, or they'll end up hurting you. One of those things might very well happen. That's the only way we learn... about others, and about ourselves. You're a black-belt in martial arts, but I'd guess you still a white-belt in social skills. Someday, you're going to meet someone that truly wants to be your friend, and you, theirs. But it if you don't keep training, you won't be ready when that happens.</i></blockquote>
+   <p class="indented">- Natsuki Takaya</p>
+  </body>
+</html>
