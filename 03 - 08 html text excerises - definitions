@@ -1,0 +1,22 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 08 html text excerises - definitions.html -->
+<!DOCTYPE html>
+<html>
+  <style>
+.mail {
+  padding-left: 150pt;
+  padding-right: 50pt;
+}
+</style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+<p>Harvir Wilkinson<br>651 Littleton Street<br>Dover, NH 03820</p>
+<p class="mail">Konrad Dale<br>8469 Belmont Court<br>Winter Garden, FL 34787</p>
+  </body>
+</html>
