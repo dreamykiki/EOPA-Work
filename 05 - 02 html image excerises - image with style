@@ -1,0 +1,17 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 02 html image excerises - image with style.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Images Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <a href="https://youtu.be/RTMEK2On_Lo">
+    <img src="https://img.cinemablend.com/filter:scale/quill/0/c/4/2/4/e/0c424e27e29b5bfe1f147671fcec1301afcbb8ce.jpg?mw=600" border="2" style="width:200px;height:200px;" alt="Stone Cold looking across the ring in confusion."> 
+    </a>
+  </body>
+</html>
