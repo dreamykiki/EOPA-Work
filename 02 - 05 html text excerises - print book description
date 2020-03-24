@@ -1,0 +1,18 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/18/2020 -->
+<!-- 04 html text excerises - print book description.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <h1>As I Lay Dying</h1>
+    <h2>William Faulkner</h2>
+    <p><u>As I Lay Dying</u> is <u>Faulkner</u>’s <b><i>harrowing</i></b> account of the <u>Bundren</u> family’s odyssey across the Mississippi countryside to bury <u>Addie</u>, their wife and mother. Narrated in turn by each of the family members—including <u>Addie</u> herself—as well as others, the novel ranges in mood, from <b><i>dark comedy</i></b> to the <b><i>deepest pathos</i></b>. Considered one of the most <b><i>influential</i></b> novels in American fiction in structure, style, and drama, <u>As I Lay Dying</u> is a true 20th-century <b><i>classic</i></b>.</p>
+  </body>
+</html>
