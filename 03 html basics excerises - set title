@@ -1,0 +1,16 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/6/2020 -->
+<!-- 03 html basics excerises - set title.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>This is a webpage.</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <p>What's this? Check title :)</p>
+  </body>
+</html>
