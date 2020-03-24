@@ -1,0 +1,22 @@
+3<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 03 html text excerises - two paragraphs.html -->
+<!DOCTYPE html>
+<html>
+  <style>
+.indented {
+  padding-left: 50pt;
+  padding-right: 50pt;
+}
+</style>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p class="indented">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut aliquam purus sit amet luctus venenatis lectus. Massa ultricies mi quis hendrerit dolor magna eget est. Dolor purus non enim praesent elementum facilisis leo vel fringilla. Urna et pharetra pharetra massa massa ultricies. Risus pretium quam vulputate dignissim suspendisse in est ante in. Auctor augue mauris augue neque gravida in fermentum. Ac placerat vestibulum lectus mauris ultrices eros in. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Rhoncus urna neque viverra justo nec ultrices dui sapien. Diam in arcu cursus euismod quis viverra nibh. Neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt. Lacus vestibulum sed arcu non odio euismod lacinia at quis. Eu scelerisque felis imperdiet proin fermentum leo vel orci porta. Condimentum mattis pellentesque id nibh tortor id. Interdum velit euismod in pellentesque massa placerat. Vulputate dignissim suspendisse in est ante. A scelerisque purus semper eget duis at.<p>
+    <p class="indented">Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Cursus eget nunc scelerisque viverra mauris in aliquam sem. Eget arcu dictum varius duis at. Et malesuada fames ac turpis egestas. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus et. In eu mi bibendum neque egestas congue quisque egestas. In cursus turpis massa tincidunt dui ut ornare lectus sit. Vel eros donec ac odio tempor orci dapibus. A cras semper auctor neque vitae tempus quam pellentesque nec. Diam donec adipiscing tristique risus nec. Blandit cursus risus at ultrices mi. Id leo in vitae turpis massa sed elementum. At elementum eu facilisis sed odio morbi quis commodo odio.</p>
+  </body>
+</html>
