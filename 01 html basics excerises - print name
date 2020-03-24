@@ -1,0 +1,16 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/6/2020 -->
+<!-- 01 html basics excerises - print name.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Basics Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <script src="script.js"></script>
+    <p>Kia G</p>
+  </body>
+</html>
