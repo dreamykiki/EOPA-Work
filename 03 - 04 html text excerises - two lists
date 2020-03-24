@@ -1,0 +1,29 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 04 html text excerises - two lists.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
+     <ol>
+      <li>Etiam tellus leo, rhoncus sit amet ligula sed, finibus gravida purus.</li>
+      <li>In vel convallis nulla.</li>
+      <li> Sed tempus orci ut eros tincidunt, eget dapibus mauris eleifend.</li>
+      <li>Vivamus rutrum urna ut ligula condimentum, non luctus ligula mollis.</li>
+      <li>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</li>
+      </ol> 
+      <h1>Vivamus a sodales risus, vitae placerat justo.</h1>
+     <ul>
+      <li>Suspendisse facilisis diam pretium lectus euismod finibus.</li>
+      <li>Cras vel lectus vel ante finibus bibendum id in ipsum.</li>
+      <li>Cras elementum rhoncus pulvinar.</li>
+      <li>Curabitur eget sem ac diam egestas malesuada non sit amet enim.</li>
+      </ul> 
+  </body>
+</html>
