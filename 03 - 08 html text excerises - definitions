@@ -3,12 +3,6 @@
 <!-- 08 html text excerises - definitions.html -->
 <!DOCTYPE html>
 <html>
-  <style>
-.mail {
-  padding-left: 150pt;
-  padding-right: 50pt;
-}
-</style>
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
@@ -16,7 +10,41 @@
     <link href="style.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-<p>Harvir Wilkinson<br>651 Littleton Street<br>Dover, NH 03820</p>
-<p class="mail">Konrad Dale<br>8469 Belmont Court<br>Winter Garden, FL 34787</p>
+    <ul>
+      <li><big><b>Sahel</b></big> [<i>suh</i>-heyl, -heel]<br><i>noun</i></li>
+        <ol>
+          <li>the arid area on the S flank of the Sahara desert that stretches across six countries from Senegal to Chad.</li>
+        </ol>
+      <li><big><b>wildcatter</b></big> [<b>wahyld</b>-kat-er]<br><i>noun</i></li>
+        <ol>
+          <li>an oil prospector.</li>
+          <li>a person who promotes risky or unsound business ventures.</li>
+          <li>a person who participates in a wildcat strike.</li>
+        </ol>
+        <li><big><b>webbing</b></big> [<b>web</b>-ing]<br><i>noun</i></li>
+        <ol>
+          <li>a strong, woven material of hemp, cotton, or jute, in bands of various widths, used for belts, carrying straps, harness, etc.</li>
+          <li>such woven bands nailed on furniture under springs or upholstery, for support.</li>
+          <li><i>Zoology.</i> the membrane forming a web or webs.</li>
+          <li>something resembling this, as the leather thongs or piece connecting the sections for the thumb and forefinger in a baseball glove or mitt.</li>
+          <li>any material or part formed from interlaced threads, thongs, branches, etc., or having a latticelike appearance, as the face of a tennis racket.</li>
+          <li><b>webbings</b>, <i>Chiefly Eastern New England Older Use.</i> the reins or lines for controlling a horse or team of horses.</li>
+        </ol>
+        <li><big><b>longevous</b></big> [lon-<b>jee</b>-v<i>uh</i> s, lawn-]<br><i>adjective Archaic.</i></li>
+        <ol>
+          <li>long-lived; living to a great age.</li>
+        </ol>
+        <li><big><b>bromide</b></big> [<b>broh</b>-mahyd or for 1, <b>broh</b>--mid ]<br><i>noun</i></li>
+        <ol>
+          <li><i>Chemistry.</i></li>
+            <ol type="a">
+              <li>a salt of hydrobromic acid consisting of two elements, one of which is bromine, as sodium bromide, NaBr.</li>
+              <li>a compound containing bromine, as methyl bromide.</li>
+            </ol> 
+          <li><i> Pharmacology.</i> potassium bromide, known to produce central nervous system depression, formerly used as a sedative.</li>
+          <li>a platitude or trite saying.</li>
+          <li>a person who is platitudinous and boring.</li>
+        </ol>
+    </ul>
   </body>
 </html>
