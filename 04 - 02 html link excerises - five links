@@ -1,0 +1,20 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 02 html link excerises - five links.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Link Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Five Links</h1>
+     <a href="https://www.animenewsnetwork.com/interview/2020-03-20/stars-align-director-kazuki-akane/.157662" target="_blank">Interview: Stars Align Director Kazuki Akane (Part 2)</a><br>
+     <a href="https://blog.sakugabooru.com/2020/01/12/hoshiai-no-sora-stars-align-a-story-about-corporate-betrayal-but-also-a-lot-more/" target="_blank">Hoshiai no Sora / Stars Align: A Story About Corporate Betrayal, But Also A Lot More</a><br>
+     <a href="https://www.houseplans.com/plan/874-square-feet-3-bedroom-1-5-bathroom-0-garage-cottage-39317" target="_blank">House Plan 915-2</a><br>
+      <a href="https://slate.com/culture/2014/09/the-fade-out-in-pop-music-why-dont-modern-pop-songs-end-by-slowly-reducing-in-volume.html" target="_blank">The sad, gradual decline of the fade-out in popular music.</a><br>
+       <a href="https://getpocket.com/explore/item/why-don-rsquo-t-we-forget-how-to-ride-a-bike" target="_blank">Why Don’t We Forget How to Ride a Bike?</a><br>
+  </body>
+</html>
