@@ -1,0 +1,44 @@
+<!-- Name: Kia Geffrard -->
+<!-- Date: 3/23/2020 -->
+<!-- 10 html text excerises - acronyms and abbreviations.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>HTML Text Formatting Exercises</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p>DOE - Department of Education</p>
+    <hr>
+    <hr>
+    <p>PND - Paroxysmal Nocturnal Dyspnoea</p>
+    <hr>
+    <hr>
+    <p>BMP - Bitmap</p>
+    <hr>
+    <hr>
+    <p>DD - Developmental Delay</p>
+    <hr>
+    <hr>
+    <p>FIELD - Foundation for International Environmental Law and Development</p>
+    <hr>
+    <hr>
+    <p>PUI - Patients Under Investigation</p>
+    <hr>
+    <hr>
+    <p>ICH - I/O Controller Hub </p>
+    <hr>
+    <hr>
+    <p>AU - Astronomical Unit </p>
+    <hr>
+    <hr>
+    <p>LAD - Left Anterior Descending </p>
+    <hr>
+    <hr>
+    <p>CMS - Content Management System</p>
+    <hr>
+    <hr>
+  </body>
+</html>
